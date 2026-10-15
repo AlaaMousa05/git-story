@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Once upon a time, in a village named "Init", lived a brave adventurer named Git.
+=======
+Once upon a time, in a town named "Init", lived an enthusiastic explorer named Git.
+>>>>>>> conflict_branch
 He had one dream - to explore the mysterious world of Version Control.
 Git continued his journey, hoping to discover new adventures.
